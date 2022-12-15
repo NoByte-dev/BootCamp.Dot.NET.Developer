@@ -8,11 +8,22 @@ namespace ExplorandoExemplos.Models
    
     public class Pessoa
     {
+        public Pessoa()
+        {
+            // Console.WriteLine("Digite Nome, confirme com Enter, em seguida Sobrenome");
+            // Nome = Console.ReadLine();
+            // Sobrenome = Console.ReadLine();
+        }
+        public Pessoa(string nome, string sobrenome)
+        {
+            Nome = nome;
+            Sobrenome = sobrenome;
+        }
         private string _nome;
         private int _idade;
         public string Nome 
         { 
-            get => _nome.ToLower();
+            get => _nome;
             
             set
             {
@@ -23,6 +34,8 @@ namespace ExplorandoExemplos.Models
                 _nome = value;
             }
         }
+        public string Sobrenome { get; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
         public int Idade
         {
             get => _idade;
@@ -37,7 +50,7 @@ namespace ExplorandoExemplos.Models
         }
         public void Apresentar()
         {
-            Console.WriteLine($"Nome:{Nome} Idade:{Idade}");
+            Console.WriteLine($"Nome:{NomeCompleto} Idade:{Idade}");
         }
     }
 }
