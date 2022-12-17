@@ -12,10 +12,10 @@ O [Pottencial .NET Developer](https://web.dio.me/track/pottencial-net-developer)
 - [ ] - Dominando o Ecossistema .NET (16 Horas)
 
 ### Links importantes adquiridos ao logo dessa jornada.
-[Stackedit](https://stackedit.io/app#) - Melhor editor de markdown que eu encontrei.
-[Gitmoji](https://gitmoji.dev/) - Recomendando para organização dos commits. *Uma imagem fala mais que mil palavras*, ou melhor um emoji :grinning:
-[Git](https://git-scm.com/downloads) - Ferramenta obrigatória pra trabalhar com Github.
-[Visual Studio Code](https://code.visualstudio.com/download) - Adoro fazer meus commits pelo code, além de ser leve foi primordial nesse BootCamp.
-[Visual Studio](https://visualstudio.microsoft.com/pt-br/) - Um pouco mais pesado que o Code, não considero melhor nem pior, digamos que ele e o Code se complementam pra mim.
-[Oh My Posh](https://ohmyposh.dev/) - Personalização do Terminal, o terminal virou meu melhor amigo depois que comecei essa jornada, então aprendi a cuidar bem dele.
-[NuGet](https://www.nuget.org/packages) - Pacotes com soluções para uma infinidade de temas.
+- [Stackedit](https://stackedit.io/app#) - Melhor editor de markdown que eu encontrei.
+- [Gitmoji](https://gitmoji.dev/) - Recomendando para organização dos commits. *Uma imagem fala mais que mil palavras*, ou melhor um emoji :grinning:
+- [Git](https://git-scm.com/downloads) - Ferramenta obrigatória pra trabalhar com Github.
+- [Visual Studio Code](https://code.visualstudio.com/download) - Adoro fazer meus commits pelo code, além de ser leve foi primordial nesse BootCamp.
+- [Visual Studio](https://visualstudio.microsoft.com/pt-br/) - Um pouco mais pesado que o Code, não considero melhor nem pior, digamos que ele e o Code se complementam pra mim.
+- [Oh My Posh](https://ohmyposh.dev/) - Personalização do Terminal, o terminal virou meu melhor amigo depois que comecei essa jornada, então aprendi a cuidar bem dele.
+- [NuGet](https://www.nuget.org/packages) - Pacotes com soluções para uma infinidade de temas.
