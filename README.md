@@ -7,7 +7,7 @@ O [Pottencial .NET Developer](https://web.dio.me/track/pottencial-net-developer)
 - [x] - Prepare-se para a Jornada (3 Horas)
 - [x] - Princípios de Desenvolvimento de Sofware (12 Horas)
 - [x] - Conhecendo a Plataforma .NET com C# (39 Horas)
-- [ ] - Orientação a Objetos com C# (9 Horas)
+- [x] - Orientação a Objetos com C# (9 Horas)
 - [ ] - Bancos de Dados Relacionais - SQL Server (7 Horas)
 - [ ] - Dominando o Ecossistema .NET (16 Horas)
 
